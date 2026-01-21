@@ -1,2 +1,2 @@
 console.log("welcome GUI");
-console.log("ddd");
+console.log("ddd edd");
